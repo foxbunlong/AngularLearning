@@ -1,0 +1,7 @@
+﻿npm install --save bootstrap@3
+
+go to angular.json
+architect > build > options > styles
+Add "node_modules/bootstrap/dist/css/bootstrap.min.css",
+
+run ng serve
